@@ -1,4 +1,4 @@
-###Displacement Estimation Using IMU DFR1179 with ZUPT + Kalman Filter in ROS2
+# **Displacement Estimation Using IMU DFR1179 with ZUPT + Kalman Filter in ROS2**
 
 In this project, displacement estimation was achieved using an **IMU DFR1179** sensor and a combination of advanced techniques including **Butterworth low-pass filtering**, **Zero Velocity Update (ZUPT)**, and **Kalman filtering**. By filtering out noise from the raw accelerometer data and fusing it with gyroscope measurements, accurate displacement estimates were obtained in real-time. 
 
