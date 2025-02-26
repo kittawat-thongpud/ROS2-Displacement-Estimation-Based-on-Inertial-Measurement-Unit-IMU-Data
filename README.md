@@ -4,7 +4,7 @@ In this project, displacement estimation was achieved using an **IMU DFR1179** s
 
 The key achievements of this project include:
 - **Noise Reduction**: The application of a Butterworth low-pass filter significantly improved the signal-to-noise ratio in the accelerometer data.
-- **Drift Mitigation**: ZUPT and Kalman filtering helped to minimize the effects of drift, a common issue in IMU-based displacement estimation.
+- **Drift Mitigation**: ZUPT and EKF | UKF helped to minimize the effects of drift, a common issue in IMU-based displacement estimation.
 - **Real-time Performance**: The use of ROS2 enabled efficient data processing and visualization of displacement estimates in real time.
 
 ### **Future Work**
